@@ -1,0 +1,64 @@
+.container-fluid{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #003EC7;
+  }
+  
+  .navbar-brand{
+    color: #003EC7;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    display: inline-block;
+    padding: 0;
+  }
+  
+  footer{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+  }
+  
+  .nav-link{
+    color: #003EC7;
+    font-size: 20px;
+  }
+  
+  .nav-link:hover {
+    background-color: #5860FB;
+    color: white;
+  }
+  
+  .landing_page_logo{
+    width:80px;
+    height:80px;
+    object-fit: fill;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .bottom_face_logo{
+    width:60px;
+    height:50px;
+    object-fit: fill;
+  }
+  
+  .footerLink{
+    color: #003EC7;
+  }
+  
+  .typewrite{
+    text-decoration: none;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    color: #5860FB;
+    font-size: 34px;
+  }
+  
+  h1{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 34px;
+  }
+  
+  h3{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+  }
