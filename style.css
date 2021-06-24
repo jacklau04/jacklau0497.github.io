@@ -64,9 +64,12 @@
   }
   
   .btn{
-    margin-bottom: 10px;
     font-size: 16px;
     font-family: Roboto;
-    width: 100px;
+    width: 180px;
     height: 40px;
+    text-align: center;
+    color: #FA7370;
+    border: 2px solid #FA7370;
+    border-radius: 15px;
   }
