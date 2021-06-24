@@ -84,6 +84,12 @@
     font-weight: bold;
   }
   
+  
+  h5{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+  }
+  
   p{
     font-family: Roboto, Arial, Helvetica, sans-serif;
     font-size: 14px;
@@ -246,13 +252,13 @@
   }
   
   .main-timeline .month {
-      font-size: 18px;
+      font-size: 14px;
       font-weight: 700
   }
   
   .main-timeline .year {
       display: block;
-      font-size: 30px;
+      font-size: 24px;
       font-weight: 700;
       color: #232323;
       line-height: 36px
