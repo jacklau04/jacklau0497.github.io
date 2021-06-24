@@ -47,6 +47,12 @@
     margin: 0;
   }
   
+  .card-img-top {
+      width: 100%;
+      height: 25vw;
+      object-fit: cover;
+  }
+  
   .Uottawa_logo{
     width:90px;
     height:70px;
