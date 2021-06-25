@@ -15,7 +15,12 @@
   .large-image{
     width: 100%;
     positive: relative;
-    max-height: 600px;
+    max-height: 450px;
+  }
+  
+  .align-middle{
+    margin-top:auto;
+    margin-bottom: auto;
   }
   
   footer{
@@ -29,6 +34,7 @@
     font-family: Roboto, Arial, Helvetica, sans-serif;
     font-size: 18px;
   }
+  
   
   body{
     margin:0;
@@ -139,6 +145,11 @@
     color: #FA7370;
     border: 2px solid #FA7370;
     border-radius: 15px;
+  }
+  
+  .btn:hover{
+    background-color: #FA5A57;
+    border: 2px solid #FA5A57;
   }
   
   
