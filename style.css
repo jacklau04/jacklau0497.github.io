@@ -12,6 +12,12 @@
     padding: 0;
   }
   
+  .large-image{
+    width: 100%;
+    positive: relative;
+    max-width: 450px;
+  }
+  
   footer{
     font-family: Roboto, Arial, Helvetica, sans-serif;
     font-size: 14px;
